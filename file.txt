@@ -1,1 +1,4 @@
 This is a file 
+A bug
+a change is made
+What does it mean
